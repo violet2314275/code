@@ -96,7 +96,3 @@ openocd -f interface/stlink.cfg -f target/stm32f1x.cfg \
 All AI agent interactions are recorded in `logs/agent_workflow_log.txt`,
 demonstrating the multi-step reasoning, code generation, and review
 process used throughout this project.
-
-## License
-
-MIT
