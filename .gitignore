@@ -1,0 +1,21 @@
+# Build outputs
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.axf
+
+# IDE files
+*.uvguix.*
+*.uvoptx
+*.scvd
+.settings/
+.mxproject
+
+# Debug / temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
